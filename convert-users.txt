@@ -1,0 +1,3 @@
+BUILTIN\Administrators, Administrators
+BUILTIN\Users, Domain Users
+NT AUTHORITY\Authenticated Users, Authenticated Users
