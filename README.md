@@ -3,6 +3,7 @@
 
 SecRev is a Python application that retrieves and reports inactive Active Directory users, Active Directory groups and members, and the NTFS permissions of specified file shares. It generates an Excel report to display this information.
 
+Supports Active Directory environments running Server 2012 R2 or newer. (PowerShell 3 is a requirement for reporting users/groups)
 
 
 
