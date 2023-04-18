@@ -44,3 +44,5 @@ example: SecRev.exe -s VM-FS "Finance Reports" Logging Users -s VM-SQL Data "Use
 -s FILESERVER [SHARE ...]
     Specify the file server and an arbitrary number of shares (e.g., -s FILESERVER share1 share2).
 ```
+
+The files 'ignore-users.txt', 'ignore-groups.txt', and 'convert-users.txt' are used to modify the output of the program.
